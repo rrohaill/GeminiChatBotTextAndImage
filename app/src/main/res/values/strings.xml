@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBotTextAndImage</string>
+    <string name="input_message_title">Message</string>
+    <string name="input_message_prompt">Ask me a question</string>
+</resources>
